@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imagens</folder>
+	<filename>0018b744-e836-45a7-be74-e8e11c960f69.jpg</filename>
+	<path>/Users/PedroBuarque/Desktop/pickcells/imagens/0018b744-e836-45a7-be74-e8e11c960f69.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>full</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>188</xmin>
+			<ymin>320</ymin>
+			<xmax>238</xmax>
+			<ymax>376</ymax>
+		</bndbox>
+	</object>
+</annotation>
