@@ -29,7 +29,7 @@ def xml_to_csv(path):
 
 
 def main():
-    image_path = os.path.join(os.getcwd(), 'dataset')
+    image_path = os.path.join(os.getcwd(), 'data/training/')
     xml_df = xml_to_csv(image_path)
     xml_df.to_csv('aedes_labels.csv', index=None)
     print('Successfully converted xml to csv.')
